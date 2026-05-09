@@ -1,0 +1,19 @@
+@charset "utf-8";
+.color-items-accordeon h2button {
+	color: #62287E;
+	background-color: #CBBED6;
+	font-size: large;
+}
+.btn-cards{
+	background-color: #5c0387;
+	color: #f6ecfc;
+}
+.container-fluid .row div{
+	background-color: #bc7bf1;
+	border: thin solid #420080;
+	text-align: center;
+}
+.container .row div{
+	background-color: pink;
+	border: thinsolid
+}
